@@ -42,11 +42,11 @@ function App() {
               <button className='me-2 border my-1 btn btn-light' onClick={ divide }>÷</button>
             </div>
           </div>
-          <div class="col">
-            <div class="row">
+          <div className='col'>
+            <div className='row'>
               <button className='border my-1 px-4 btn btn-danger' onClick={() => setTotal(0)}>reset result</button>
             </div>
-            <div class="row">
+            <div className='row'>
               <button className='border my-1 px-4 btn btn-danger' onClick={() => setNumber('')}>reset input</button>
             </div>
           </div>
