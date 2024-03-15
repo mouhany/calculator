@@ -15,3 +15,4 @@ Once a user types into the input field, they will then have to update the total 
 
 Here's a diagram of the completed calculator app:
 ![Calculator app preview](./public/calculator_preview.png)
+
